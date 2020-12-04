@@ -1,0 +1,19 @@
+p{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    border: solid 2px green;
+    margin: 10px 10px 30px 10px;
+    width: 400px;
+    height: 100px;
+   
+
+
+}
+
+s{
+    padding: 6;
+    
+    border: solid 1px red;
+}

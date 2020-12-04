@@ -1,0 +1,75 @@
+.container-green{
+    position: relative;
+    width: 316px;
+    height: 316px;
+    background-color:#a0ffea;
+    box-shadow: 20px 30px 50px 8px rgb(51, 49, 49);
+}
+
+.container-green_pink{
+    position: absolute;
+    bottom:100px;
+    right: 0px;
+    width: 148px;
+    height: 22px;
+    background-color: #ff93ad;
+
+}
+
+.container-green_box{
+    position: absolute;
+    width: 126px;
+    height: 103px;
+    top: 30px;
+    right: 0px;
+    background-color: #ffd0a3;
+}
+
+.container-green_box_rec{
+    position: absolute;
+    height: 45px;
+    width: 17px;
+    top: 50px;
+    right: 0px;
+    background-color: black;
+
+}
+
+.container-title{
+    position:absolute;
+    top: 280px;
+    right: 20px;
+    border: dashed;
+    border-color: blue;
+    box-shadow: 3px 3px 30px 8px rgb(51, 49, 49);
+
+
+}
+
+.container-title h1{
+    text-shadow: 1px 1px 26px crimson;
+}
+
+
+.rect-black{
+    width: 209px;
+    height: calc(100% - 324px);
+    position:absolute;
+    bottom: 0px;
+    background-color: black;
+    box-shadow: 20px 30px 50px 8px rgb(51, 49, 49);
+
+
+
+}
+
+.rect-black_red{
+    width: 181px;
+    height: 40px;
+    position:absolute;
+    bottom: 227px;
+    left: 108px;
+    background-color:#bf0005;
+    box-shadow: 5px 5px 30px 8px rgb(114, 110, 110);
+
+}
